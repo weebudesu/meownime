@@ -6,7 +6,7 @@ Ini adalah tema wordpress fansub/fanshare meownime.
 # Cara Install
 Download reponya trus pasang bersamaan sama theme [Sparkling](https://github.com/ColorlibHQ/Sparkling), karena ini adalah child theme dari [Sparkling](https://github.com/ColorlibHQ/Sparkling).
 
-# Rekomendai plugin
+# Rekomendasi plugin
 
 1. Wajib
 	- [Metabox](https://wordpress.org/plugins/meta-box/)
