@@ -43,4 +43,6 @@ Untuk Post dan Page gunakan layout Right Sidebar. saat buat post pilih layout Ri
 ```
 **Hasil**
 
-![Download box!](/img/Dlbox.png)
+![Download box!](/img/Dlbox_2.png)
+
+![Download box!](/img/dlbox.png)
