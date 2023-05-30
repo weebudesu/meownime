@@ -1,4 +1,4 @@
-# meownime
+# Meownime
 Ini adalah tema wordpress fansub/fanshare meownime.
 
 # Cara Install
@@ -18,6 +18,29 @@ Download reponya trus pasang bersamaan sama theme [Sparkling](https://github.com
 
 Untuk global layout saya sarankan **Full Width**, cara settingnya ke **Customize-> Sparkling Options-> Layout Options-> Pilih Full Width**.
 
-![Layout Options!](/img/Screenshot_1.png "Layout Options")
+![Layout Options!](/img/Screenshot_2.png "Layout Options")
 
-Untuk Post dan Page 
+Untuk Post dan Page gunakan layout Right Sidebar. saat buat post pilih layout Right Sidebar seperti gambar dibawah.
+
+![Post & Page Layout!](/img/PostLayout.png "Layout Options")
+
+# Download box
+
+```html
+<div class="dlx">
+<h4>[Judul Anime] Episode 01 — <strong>[Sumber]</strong></h4>
+<table class="table table-striped">
+<tbody>
+<tr>
+<td class="text-center">Mkv 480p (Softsub) — (79.09 MB)</td>
+</tr>
+<tr>
+<td class="text-center"><a href="#" rel="noopener" target="_blank">Gdrive</a> | <a href="#" rel="noopener" target="_blank">Mediafire</a> | <a href="#" rel="noopener" target="_blank">Mirror</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+```
+**Hasil**
+
+![Download box!](/img/Dlbox.png)
